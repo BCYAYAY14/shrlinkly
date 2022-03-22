@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.3",
+    "path": "^0.12.7"
+  },
+  "name": "linkcutter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "BCYAYAY",
+  "license": "ISC",
+  "description": ""
+}
